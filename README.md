@@ -9,5 +9,5 @@
 </p>
 
 <p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ay-sha-07&theme=github-dark-neon&bg_color=0d1117&hide_border=false" alt="Activity Graph" />
+  <img width="93%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ay-sha-07&theme=github-dark-neon&bg_color=0d1117&hide_border=false" alt="Activity Graph" />
 </p>
