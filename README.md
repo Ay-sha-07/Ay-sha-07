@@ -55,7 +55,7 @@
 <p align="center"><b>Ayisha's GitHub Stats</b></p>
 
 <p align="center">
-  <img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ay-sha-07&layout=compact&theme=dark&hide_border=false" alt="Top Languages" />
+  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ay-sha-07&layout=compact&theme=dark&hide_border=false" alt="Top Languages" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ay-sha-07&show_icons=true&theme=dark&hide_border=false&count_private=true" alt="GitHub Stats" />
 </p>
 
