@@ -1,1 +1,1 @@
-![My Custom GitHub Metrics](github-metrics.svg)
+![My Custom GitHub Metrics](https://metrics.lecoq.io/Ay-sha-07?template=classic&isocalendar=1&isocalendar.duration=half-year&habits=1&habits.facts=1&habits.charts=1&languages=1&languages.sections=most-used)
