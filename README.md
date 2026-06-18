@@ -2,18 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=100&lines=Welcome+to+Ayisha's+GitHub;Building+with+Python+%26+TypeScript" alt="Typing SVG" />
 </p>
 
-<h2 align="center">About me</h2>
-<p align="center">
-  Hello, I'm <b>Ayisha Muhammed</b> — a Software Developer focused on building clean, scalable, and modern applications.<br>
-  I value structure, performance, and long-term maintainability over hype.
-</p>
-
-<p align="center">
-  <b>Data Analytics & Web Development</b><br>
-  Python / Jupyter / TypeScript / JavaScript<br>
-  Modern UI & Clean Architecture<br>
-</p>
-
 <h2 align="center">Technologies</h2>
 
 <p align="center"><b>Core Technologies</b></p>
