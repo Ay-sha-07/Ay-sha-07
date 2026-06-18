@@ -61,7 +61,7 @@
 
 <p align="center"><b>🔥 Contribution Streak</b></p>
 <p align="center">
-  <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ay-sha-07&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ay-sha-07&theme=dark&hide_border=false" alt="GitHub Streak" />
 </p>
 
 <p align="center"><b>📊 Contribution Graph</b></p>
