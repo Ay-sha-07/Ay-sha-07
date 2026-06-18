@@ -11,8 +11,13 @@ I am a passionate software developer focused on data analysis, web technologies,
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img width="53%" src="https://metrics.lecoq.io/Ay-sha-07?template=classic&isocalendar=1&isocalendar.duration=half-year&config_timezone=Asia/Kolkata" alt="GitHub Metrics" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ay-sha-07&layout=compact&theme=dark&hide_border=true&langs_count=7" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ay-sha-07&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Ayisha's GitHub Stats" />
+  
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ay-sha-07&layout=compact&theme=dark&hide_border=true&langs_count=7" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://metrics.lecoq.io/Ay-sha-07?template=classic&base=&isocalendar=1&isocalendar.duration=half-year&config_timezone=Asia/Kolkata" alt="GitHub Metrics Calendar" />
 </p>
 
 ---
