@@ -25,7 +25,6 @@
   <b>Data Analytics & Web Development</b><br>
   Python / Jupyter / TypeScript / JavaScript<br>
   Modern UI & Clean Architecture<br>
-  Strong GitHub collaboration mindset
 </p>
 
 ---
