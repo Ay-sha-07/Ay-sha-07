@@ -1,6 +1,25 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=70&lines=Welcome+to+Ayisha's+GitHub;Building..." alt="Typing SVG" />
+<p align="center" style="font-family: 'Fira Code', monospace; font-size: 24px; color: #FFFFFF;">
+  <!-- First line that types out and stays -->
+  <span style="display: block; margin-bottom: 10px;">Welcome to Ayisha's GitHub</span>
+  
+  <!-- Second line where 'Building' stays still, but dots animate one-by-one -->
+  <span>Building<span class="animated-dots"></span></span>
 </p>
+
+<!-- The magic styling that makes the dots appear one by one without refreshing -->
+<style>
+  .animated-dots::after {
+    content: '';
+    animation: dot-tick 2s infinite steps(4, end);
+  }
+
+  @keyframes dot-tick {
+    0%, 20% { content: ''; }
+    40% { content: '.'; }
+    60% { content: '..'; }
+    80%, 100% { content: '...'; }
+  }
+</style>
 
 <h2 align="center">📊 Statistics</h2>
 
