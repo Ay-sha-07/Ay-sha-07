@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=100&lines=Welcome+to+Ayisha's+GitHub;Building+with+Python+%26+TypeScript" alt="Typing SVG" />
+  <img width="37% src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=100&lines=Welcome+to+Ayisha's+GitHub;Building+with+Python+%26+TypeScript" alt="Typing SVG" />
 </p>
 
 <h2 align="center">Technologies</h2>
