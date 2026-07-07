@@ -7,7 +7,7 @@
 
   <img width="32.75%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ay-sha-07&show_icons=true&theme=dark&hide_border=false&count_private=true&cache_seconds=86400" alt="GitHub Stats" />
 
-  <img width="33%" src="https://streak-stats.demolab.com?user=Ay-sha-07&theme=dark&hide_border=false&cache_seconds=86400" alt="GitHub Streak" />
+  <img width="33%" src="https://github-profile-trophy.vercel.app/?username=Ay-sha-07&theme=darkhub&no-frame=true&column=3&margin-w=10&margin-h=10" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
