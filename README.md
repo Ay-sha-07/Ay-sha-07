@@ -7,7 +7,7 @@
 
   <img width="32.75%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ay-sha-07&show_icons=true&theme=dark&hide_border=false&count_private=true&cache_seconds=86400" alt="GitHub Stats" />
 
-  <img width="30%" src="https://github-readme-stats.vercel.app/api?username=Ay-sha-07&show=reviews,prs_merged,prs_merged_percentage&theme=dark" />
+  <img src="https://komarev.com/ghpvc/?username=Ay-sha-07&style=for-the-badge&color=blueviolet" />
 </p>
 
 <p align="center">
