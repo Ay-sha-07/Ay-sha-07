@@ -3,11 +3,10 @@
 </p>
 
 <p align="center">
-  <img width="32%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Ay-sha-07&layout=compact&theme=dark&hide_border=false&v=2" alt="Top Languages" />
-  <img width="32%" src="https://github-readme-stats-fast.vercel.app/api?username=Ay-sha-07&show_icons=true&theme=dark&hide_border=false&count_private=true&v=2" alt="GitHub Stats" />
-  <img width="32%" src="https://streak-stats.demolab.com?user=Ay-sha-07&theme=dark&hide_border=false&v=2" alt="GitHub Streak" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ay-sha-07&theme=50030" alt="Profile Details" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=Ay-sha-07&theme=50030" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ay-sha-07&theme=github-dark-neon&bg_color=0d1117&hide_border=false&v=2" alt="Activity Graph" />
+  <img width="98%" src="https://streak-stats.demolab.com?user=Ay-sha-07&theme=dark&hide_border=false" alt="GitHub Streak" />
 </p>
