@@ -4,8 +4,8 @@
 
 <p align="center">
   <img width="25%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Ay-sha-07&layout=compact&theme=dark&hide_border=false&v=25" alt="Top Languages" />
-  <img width="32%" src="https://github-readme-stats-fast.vercel.app/api?username=Ay-sha-07&show_icons=true&theme=dark&hide_border=false&count_private=true&v=25" alt="GitHub Stats" />
-  <img width="34%" src="https://streak-stats.demolab.com?user=Ay-sha-07&theme=dark&hide_border=false&v=25" alt="GitHub Streak" />
+  <img width="33%" src="https://github-readme-stats-fast.vercel.app/api?username=Ay-sha-07&show_icons=true&theme=dark&hide_border=false&count_private=true&v=25" alt="GitHub Stats" />
+  <img width="35%" src="https://streak-stats.demolab.com?user=Ay-sha-07&theme=dark&hide_border=false&v=25" alt="GitHub Streak" />
 </p>
 
 <p align="center">
