@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  <img width="32%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Ay-sha-07&layout=compact&theme=dark&hide_border=false&v=10" alt="Top Languages" />
-  <img width="32%" src="https://github-readme-stats-fast.vercel.app/api?username=Ay-sha-07&show_icons=true&theme=dark&hide_border=false&count_private=true&v=10" alt="GitHub Stats" />
-  <img width="32%" src="https://streak-stats.demolab.com?user=Ay-sha-07&theme=dark&hide_border=false&v=10" alt="GitHub Streak" />
+  <img width="32%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Ay-sha-07&layout=compact&theme=dark&hide_border=false&v=20" alt="Top Languages" />
+  <img width="32%" src="https://github-readme-stats-fast.vercel.app/api?username=Ay-sha-07&show_icons=true&theme=dark&hide_border=false&count_private=true&v=20" alt="GitHub Stats" />
+  <img width="32%" src="https://streak-stats.demolab.com?user=Ay-sha-07&theme=dark&hide_border=false&v=20" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img width="94%" src="https://activity-graph.dox20.vercel.app/graph?username=Ay-sha-07&theme=github-dark-neon&bg_color=0d1117&hide_border=false&v=10" alt="Activity Graph" />
+  <img width="94%" src="https://svg.template-engine.org/github-activity-graph?username=Ay-sha-07&theme=github-dark-neon&bg_color=0d1117&hide_border=false" alt="Activity Graph" />
 </p>
