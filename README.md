@@ -9,5 +9,5 @@
 </p>
 
 <p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ay-sha-07&theme=github-dark-neon&bg_color=0d1117&hide_border=false&v=2" alt="Activity Graph" />
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ay-sha-07&theme=github_dark" alt="Activity Details" />
 </p>
