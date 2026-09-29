@@ -9,5 +9,5 @@
 </p>
 
 <p align="center">
-  <img width="94%" src="https://github-readme-activity-graph.bhagya.dev/graph?username=Ay-sha-07&theme=github-dark-neon&bg_color=0d1117&hide_border=false&v=10" alt="Activity Graph" />
+  <img width="94%" src="https://activity-graph.dox20.vercel.app/graph?username=Ay-sha-07&theme=github-dark-neon&bg_color=0d1117&hide_border=false&v=10" alt="Activity Graph" />
 </p>
